@@ -13,3 +13,5 @@ This application demonstrates a simple, reusable Node.js web application based o
 + Access the running app in a browser at <http://localhost:6001>
 
 [Install Node.js]: https://nodejs.org/en/download/
+
+Have Fun with your first Sample
